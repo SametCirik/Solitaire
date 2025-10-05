@@ -7,7 +7,10 @@ This project was built to reinforce fundamental Java programming skills, object-
 ## Game Preview
 
 <d>
-  <img width="996" height="629" alt="solitaire_screenshot" src="https://github.com/user-attachments/assets/434a8798-4458-4681-8f23-a38f0e3b4509" />
+  <img width="997" height="629" alt="Ekran görüntüsü 2025-10-06 013250" src="https://github.com/user-attachments/assets/284b623d-f721-4bd7-b1f6-eb23d83fce10" />
+</d>
+<d>
+  <img width="997" height="627" alt="Ekran görüntüsü 2025-10-06 013319" src="https://github.com/user-attachments/assets/b5cd7455-03a5-48f1-9dc2-07a36ff77fca" />
 </d>
 
 ---
