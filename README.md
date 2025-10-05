@@ -1,2 +1,57 @@
-# Solitaire
-I made own Solitaire on Java!
+#  Solitaire (Card Game)
+
+This is a fully functional desktop application of the classic **Klondike Solitaire** game, developed using the **Java** programming language.
+
+This project was built to reinforce fundamental Java programming skills, object-oriented programming (OOP) principles, and the creation of a simple GUI (Graphical User Interface).
+
+---
+
+##  Features
+
+* **Classic Rules:** Implements the standard rules of Klondike Solitaire.
+* **Java-Based GUI:** Features a basic, yet functional, user interface that runs on the desktop.
+* **Movement Logic:** Basic click or drag-and-drop logic for moving cards.
+* **Easy Installation:** A direct **EXE** file for Windows users, requiring no additional setup.
+
+---
+
+##  Installation and Running
+
+Running this project on your local machine is very straightforward.
+
+### 1. Download the Application
+
+You can download the most recent release with a single click from our **GitHub Releases** page:
+[**Download v1.0 Release**](https://github.com/SametCirik/Solitaire/releases/tag/v1.0)
+
+### 2. How to Run
+
+Simply **double-click** the **`Solitaire.exe`** file you downloaded to launch the game immediately. No extra installation is required!
+
+***Note:*** *Windows may display a warning about running an application from an unknown publisher. Since this is a safe application, you can continue by clicking "More info" and then "Run anyway."*
+
+---
+
+##  Development Environment and Technologies
+
+* **Language:** Java
+* **Framework/Library:** Standard Java Development Kit (JDK) and Swing/AWT (for the GUI) were used.
+* **Development Environment:** IntelliJ IDEA / Eclipse
+
+---
+
+##  Contributing
+
+The project is still under development and is open to all feedback and contributions.
+
+1.  **Fork** this repository.
+2.  Create your feature branch (`git checkout -b feature/NewGameMode`).
+3.  Commit your changes (`git commit -m 'Feat: Added new game mode'`).
+4.  **Push** to the branch (`git push origin feature/NewGameMode`).
+5.  Open a **Pull Request**.
+
+---
+
+##  Developer
+
+This project was developed by **[Samet Cırık](https://github.com/SametCirik)**.
