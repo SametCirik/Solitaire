@@ -4,15 +4,6 @@ This is a fully functional desktop application of the classic **Klondike Solitai
 
 This project was built to reinforce fundamental Java programming skills, object-oriented programming (OOP) principles, and the creation of a simple GUI (Graphical User Interface).
 
-## Game Preview
-
-<d>
-  <img width="997" height="629" alt="Ekran görüntüsü 2025-10-06 013250" src="https://github.com/user-attachments/assets/284b623d-f721-4bd7-b1f6-eb23d83fce10" />
-</d>
-<d>
-  <img width="997" height="627" alt="Ekran görüntüsü 2025-10-06 013319" src="https://github.com/user-attachments/assets/b5cd7455-03a5-48f1-9dc2-07a36ff77fca" />
-</d>
-
 ---
 
 ##  Features
@@ -58,6 +49,18 @@ The project is still under development and is open to all feedback and contribut
 3.  Commit your changes (`git commit -m 'Feat: Added new game mode'`).
 4.  **Push** to the branch (`git push origin feature/NewGameMode`).
 5.  Open a **Pull Request**.
+
+---
+
+## Game Preview
+
+<d>
+  <img width="498" height="314" alt="Ekran görüntüsü 2025-10-06 013250" src="https://github.com/user-attachments/assets/284b623d-f721-4bd7-b1f6-eb23d83fce10" />
+</d>
+
+<d>
+  <img width="498" height="314" alt="Ekran görüntüsü 2025-10-06 013319" src="https://github.com/user-attachments/assets/b5cd7455-03a5-48f1-9dc2-07a36ff77fca" />
+</d>
 
 ---
 
