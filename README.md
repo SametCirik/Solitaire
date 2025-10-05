@@ -22,7 +22,7 @@ Running this project on your local machine is very straightforward.
 ### 1. Download the Application
 
 You can download the most recent release with a single click from our **GitHub Releases** page:
-[**Download v1.0 Release**](https://github.com/SametCirik/Solitaire/releases/tag/v1.0)
+- [**Download v1.0 Release**](https://github.com/SametCirik/Solitaire/releases/tag/v1.0)
 
 ### 2. How to Run
 
