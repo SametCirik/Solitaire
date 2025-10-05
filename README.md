@@ -64,3 +64,7 @@ The project is still under development and is open to all feedback and contribut
 ##  Developer
 
 This project was developed by **[Samet Cırık](https://github.com/SametCirik)**.
+
+<d>
+  <img src="https://komarev.com/ghpvc/?username=SametCirik-Solitaire&label=PROFILE+VIEWS&color=green&style=flat" alt="Profil Görüntüleme Sayısı" />
+</d>
