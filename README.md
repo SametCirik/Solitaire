@@ -61,7 +61,7 @@ The project is still under development and is open to all feedback and contribut
 
 ---
 
-##  Developer
+##  Developer *(-s)*
 
 This project was developed by **[Samet Cırık](https://github.com/SametCirik)**.
 
