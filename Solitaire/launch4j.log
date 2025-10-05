@@ -1,0 +1,22 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\User\Desktop\Games Workspace\Solitaire\SolitaireGame.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\User\Desktop\Games Workspace\Solitaire\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = D:\Program Files\Java\jdk-17.0.14
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\User\AppData\Local\Programs\Python\Python313;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\User\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\User\AppData\Local\Programs\Python\Python313\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Google\Chrome\Application\;C:\Users\User\Desktop\Yurtbot;D:\Program Files\Java\jdk-17.0.14\bin;D:\Program Files\Java\jdk-17.0.14\bin
+JRE paths:	D:\Program Files\Java\jdk-17.0.14;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\User\AppData\Local\Programs\Python\Python313;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\User\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\User\AppData\Local\Programs\Python\Python313\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Google\Chrome\Application\;C:\Users\User\Desktop\Yurtbot;D:\Program Files\Java\jdk-17.0.14\bin;D:\Program Files\Java\jdk-17.0.14\bin
+Check launcher:	D:\Program Files\Java\jdk-17.0.14\bin\javaw.exe (OK)
+Version string: 1.017.000_014 / 64-Bit (OK)
+Main class:	com.solitairegame.solitaireapp.SolitaireApp
+Info:		Classpath not defined.
+Launcher:	D:\Program Files\Java\jdk-17.0.14\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\User\Desktop\Games Workspace\Solitaire\SolitaireGame.exe" com.solitairegame.solitaireapp.SolitaireApp
+Args length:	122/32768 chars
+Exit code:	0
