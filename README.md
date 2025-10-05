@@ -4,6 +4,12 @@ This is a fully functional desktop application of the classic **Klondike Solitai
 
 This project was built to reinforce fundamental Java programming skills, object-oriented programming (OOP) principles, and the creation of a simple GUI (Graphical User Interface).
 
+## Game Preview
+
+<d>
+  <img width="996" height="629" alt="solitaire_screenshot" src="https://github.com/user-attachments/assets/434a8798-4458-4681-8f23-a38f0e3b4509" />
+</d>
+
 ---
 
 ##  Features
