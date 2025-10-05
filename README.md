@@ -54,13 +54,10 @@ The project is still under development and is open to all feedback and contribut
 
 ## Game Preview
 
-<d>
+<p align="center">
   <img width="372" height="236" alt="Ekran görüntüsü 2025-10-06 013250" src="https://github.com/user-attachments/assets/284b623d-f721-4bd7-b1f6-eb23d83fce10" />
-</d>
-
-<d>
   <img width="372" height="236" alt="Ekran görüntüsü 2025-10-06 013319" src="https://github.com/user-attachments/assets/b5cd7455-03a5-48f1-9dc2-07a36ff77fca" />
-</d>
+</p>
 
 ---
 
