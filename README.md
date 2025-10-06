@@ -58,6 +58,7 @@ The project is still under development and is open to all feedback and contribut
   <img width="372" height="236" alt="Ekran görüntüsü 2025-10-06 013250" src="https://github.com/user-attachments/assets/284b623d-f721-4bd7-b1f6-eb23d83fce10" />
   <img width="372" height="236" alt="Ekran görüntüsü 2025-10-06 013319" src="https://github.com/user-attachments/assets/b5cd7455-03a5-48f1-9dc2-07a36ff77fca" />
   <img width="372" height="236" alt="Ekran görüntüsü 2025-10-06 201505" src="https://github.com/user-attachments/assets/7e970591-0bbc-406a-88b3-ea7e58acbd4d" />
+  <img width="327" height="236" alt="497925351-0a42bb0a-4281-49cb-9f95-b245ef2411c8" src="https://github.com/user-attachments/assets/81090dda-f5f8-4a48-958e-a9abd5a65d9c" />
 </p>
 
 ---
